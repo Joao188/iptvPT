@@ -1,4 +1,5 @@
-#m3u
+#EXTM3U
+
 #EXTINF:-1 group-title="TV" tvg-id="RTP1.pt",RTP 1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
