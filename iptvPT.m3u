@@ -1,97 +1,94 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="http://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
+#EXTINF:-1 tvg-id="RTP1.pt",RTP 1
 http://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RTP2.pt" tvg-logo="http://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
+#EXTINF:-1 tvg-id="RTP2.pt",RTP 2
 http://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="SIC.pt" tvg-logo="http://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
+#EXTINF:-1 tvg-id="SIC.pt",SIC
 http://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TVI.pt" tvg-logo="http://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
+#EXTINF:-1 tvg-id="TVI.pt",TVI
 http://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNy8yMDI1IDI6NjoxMSBQTSZoYXNoX3ZhbHVlPWcvcWFjbFg5RUlSTml6U3RIbGs2MXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zMWMwZTljOC03MjgzLTRmODUtOTljMi05MzQ2ZDllNDVhMmQ=/
 
-#EXTINF:-1 group-title="TV" tvg-id="RTP3.pt" tvg-logo="http://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
+#EXTINF:-1 tvg-id="RTP3.pt",RTP 3
 http://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="SICNoticias.pt" tvg-logo="http://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
+#EXTINF:-1 tvg-id="SICNoticias.pt",SIC Notícias
 http://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="CNNPortugal.pt" tvg-logo="http://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
+#EXTINF:-1 tvg-id="CNNPortugal.pt",CNN Portugal
 http://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNy8yMDI1IDI6NjoxMiBQTSZoYXNoX3ZhbHVlPUp3TWxaS0M0S21SczlaNGJMd3lJWWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kZjI5YjAzNy01NjNlLTRiNGQtYmNmNi1iNmRjZDAwNjg1ZDA=/
 
-#EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="http://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
+#EXTINF:-1 tvg-id="EuronewsPortuguese.fr",Euronews PT
 http://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_EuroNewsLive/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="ARTV.pt" tvg-logo="http://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",ARTV
+#EXTINF:-1 group-title="TV" tvg-id="ARTV.pt",ARTV
 http://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RTPMemoria.pt" tvg-logo="http://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Memória.png",RTP Memória
+#EXTINF:-1 tvg-id="RTPMemoria.pt" ,RTP Memória
 http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RTPAcores.pt" tvg-logo="http://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Açores.png",RTP Açores
+#EXTINF:-1 tvg-id="RTPAcores.pt",RTP Açores
 http://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RTPMadeira.pt" tvg-logo="http://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Madeira.png",RTP Madeira
+#EXTINF:-1 tvg-id="RTPMadeira.pt",RTP Madeira
 http://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RTPAfrica.pt" tvg-logo="http://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-África.png",RTP África
+#EXTINF:-1 tvg-id="RTPAfrica.pt",RTP África
 http://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RTPInternacional.pt" tvg-logo="http://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacional.png",RTP Internacional
+#EXTINF:-1 tvg-id="RTPInternacional.pt",RTP Internacional
 http://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TVIInt.pt" tvg-logo="http://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
+#EXTINF:-1 tvg-id="TVIInt.pt",TVI Internacional
 http://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNy8yMDI1IDI6NjoxNiBQTSZoYXNoX3ZhbHVlPXFmZlM2Sk9MYmpmaElxRFBwaVpMWFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01OWRjODk4Ni0xYjIwLTQ3YmQtYTZiYi02YjU4NDBlOTJkMTM=/
 
-#EXTINF:-1 group-title="TV" tvg-id="TVIAfrica.pt" tvg-logo="http://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI_África.png",TVI África
+#EXTINF:-1 tvg-id="TVIAfrica.pt",TVI África
 http://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="VPlusTVI.pt" tvg-logo="http://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/vmaistvi.png",V+ TVI
+#EXTINF:-1 tvg-id="VPlusTVI.pt",V+ TVI
 http://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TVIReality.pt" tvg-logo="http://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
+#EXTINF:-1 tvg-id="TVIReality.pt",TVI Reality
 http://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="SICReplay.pt" tvg-logo="http://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Replay.png",SIC Replay
+#EXTINF:-1  tvg-id="SICReplay.pt",SIC Replay
 http://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="http://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Alta-Definição.png",SIC Alta Definição
+#EXTINF:-1 tvg-id="SIC Alta Definição",SIC Alta Definição
 http://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="PortoCanal.pt" tvg-logo="http://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png",Porto Canal
+#EXTINF:-1 tvg-id="PortoCanal.pt",Porto Canal
 http://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="http://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fama-TV.jpg",Fama TV
+#EXTINF:-1 tvg-id=",Fama TV
 http://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="http://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CamoesTV.png",Camões TV
+#EXTINF:-1 tvg-id=",Camões TV
 http://customer-3s66icmlj6pe1jxm.cloudflarestream.com/5591a95d07ca3d04141053f912543447/manifest/video.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="MyTime Movie Network" tvg-logo="http://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/My-Time-Movie-Network.png",MyTime Movie Network
+#EXTINF:-1 tvg-id="MyTime Movie Network",MyTime Movie Network
 http://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="MovieSphere" tvg-logo="http://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/MovieSphere.jpg",MovieSphere
-http://moviesphere-plex.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="WEBTVPaixaoFM.pt",WEB TV Paixão FM
-https://stmv2.samcast.com.br/romeu6622/romeu6622/playlist.m3u8
+http://stmv2.samcast.com.br/romeu6622/romeu6622/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVCancaoNova.pt",TV Canção Nova Portugal
-https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
+http://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVFatima.pt",TV Fátima
-https://streamer-b02.videos.sapo.pt/live/santuario/playlist.m3u8
+http://streamer-b02.videos.sapo.pt/live/santuario/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioSines.pt",Rádio Sines
-https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
+http://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
 
 #EXTINF:-1 tvg-id="RecordTVEuropa.pt",RecordTV Europa
-https://live-recordeuropa.visioncdn.com/live/recordeuropa/master.m3u8
+http://live-recordeuropa.visioncdn.com/live/recordeuropa/master.m3u8
 
 #EXTINF:-1 tvg-id="NPCRadioeTV.pt",NPC Rádio e TV
-https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
+http://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ONFM.pt",ON FM
-https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+http://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
